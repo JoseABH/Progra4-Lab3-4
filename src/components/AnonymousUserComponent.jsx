@@ -1,7 +1,7 @@
 export default function AnonymousUserComponent() {
     return (
         <>
-            <h2>hola ya funca</h2>
+            <h2>hola, accede al sitio</h2>
 
         </>
 
